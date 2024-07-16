@@ -15,6 +15,6 @@ Is only for learning purpouses, dont even dare to try it in production
 
 ## Should implement (Probably wont)
 
-- [] Middlewares
-- [] Go's http package compliant APIS
-- [] Json decoding
+- [ ] Middlewares
+- [ ] Go's http package compliant APIS
+- [ ] Json decoding
